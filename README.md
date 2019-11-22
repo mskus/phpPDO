@@ -1,4 +1,2 @@
 # phpPDO
-# phpPDO
-# phpPDO
-# deneme
+Mysql üzerinden veri alan phpPDO projesi.
